@@ -7,7 +7,9 @@ This file is specific to my printer and mods.  You will need to update it if you
 - BTT SFS V2.0 Smart Filament Sensor
 - Genuine ANTCLabs BLTouch probe
 
-** Important wiring notes **
+
+################   WARNING ######################
+** 'Important wiring notes' **
 
 The BLTouch wiring instructions from BTT are WRONG.
 Properly wiring the BLTouch will require installing new crimped ends (JST & Dupont respectively) on the BLTouch wires
